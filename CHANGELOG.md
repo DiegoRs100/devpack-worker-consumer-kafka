@@ -1,2 +1,5 @@
-# devpack-worker-consumer-kafka
-Facilitator that allows the creation of a background kafka-based microservice.
+# CHANGELOG
+
+## 6.0.1.0 - 2022-11-02
+
+- Library creation.
