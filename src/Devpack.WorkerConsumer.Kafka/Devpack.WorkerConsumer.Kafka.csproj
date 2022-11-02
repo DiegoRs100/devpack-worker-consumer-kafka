@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<RepositoryUrl>https://github.com/DiegoRs100/devpack-worker-consumer-kafka.git</RepositoryUrl>
+	<Version>6.0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
